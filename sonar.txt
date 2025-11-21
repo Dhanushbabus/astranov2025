@@ -8,7 +8,7 @@ Sonar Token:
 Generate from your SonarQube account → My Account → Security → Generate Tokens
 
 token
-19752d326388dd27f1b97ed3306eab2e035d5e13
+a8324266517c12da8ca8205ac362a7f73c9211bc
 
 
 Create sonar-project.properties in your repo root.
